@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class Average
+class Averageof
 {
     public static void main(String args[]){
         int a[] = new int[5];
